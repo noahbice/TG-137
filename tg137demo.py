@@ -28,7 +28,6 @@ if True:
 #----------------------------------
 
 #BED dose calculations according to eq 7b with adjustable parameters
-#choose isotope
 T_isotope = T_ces
 T_isotope = T_pal
 T_isotope = T_iod
