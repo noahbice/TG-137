@@ -1,2 +1,2 @@
 # TG-137
-A short demo for a presentation on TG-137.
+I made this demo for a presentation on the report by TG-137: AAPM Recommendations on Dose Prescription and Reporting Methods for Permanent Interstitial Brachytherapy for Prostate Cancer. In the first part of the script, I do a back-of-the-envelope calculation of "optimal" post-implant imaging times based on reported edema magnitude and half-life values. In the second part, I plot Dale Biological Effective Dose (BED) against nominal dose for the range of radiobiological parameters described in the report. This is meant to illustrate how uncertainty about radiobiological parameters can affect our perception of clinically desirable doses.
