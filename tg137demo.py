@@ -28,10 +28,6 @@ if True:
 #----------------------------------
 
 #BED dose calculations according to eq 7b with adjustable parameters
-T_isotope = T_ces
-T_isotope = T_pal
-T_isotope = T_iod
-
 #----------------------------------
 if True:
 	def BED(D, T_isotope=17., alpha=0.15, beta=0.05, Tp=42., T_repair=0.27): #T_repair in hours, else in days 
